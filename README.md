@@ -1,5 +1,5 @@
-# Hello, Pull Request
+ï»¿# Hello, Pull Request
 
-# ƒZƒNƒVƒ‡ƒ“‚ð’Ç‰Á‚µ‚Ü‚·
+# ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã‚’è¿½åŠ ã—ã¾ã™
 
-# ‚à‚¤ˆê‚ÂƒZƒNƒVƒ‡ƒ“‚ð’Ç‰Á‚µ‚Ü‚·
+# ã‚‚ã†ä¸€ã¤ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã‚’è¿½åŠ ã—ã¾ã™
